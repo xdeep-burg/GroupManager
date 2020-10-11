@@ -31,6 +31,8 @@ Activate Anti-spam protection in your BM by this command :
 
 Made from the source code of [DarkShadow ViRk](t.me/Darkshadow_officialy)
 
+Special Thanks To [this person] (t.me/Darkshadow_officialy) For Helping me
+
 Deploy a bot like me [now](www.github.com/xdeep-burg/GroupManager)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
