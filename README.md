@@ -11,7 +11,7 @@ Alternatively, [find me on telegram](https://t.me/DarkShadow_officialy)! (Keep a
 You can also join our support group [here!](https://t.me/DarkShaDoW_z)
 
 # Group
-[Join Discuss Group](https://t.me/DarkShaDoW_z
+[Join Discuss Group](https://t.me/DarkShaDoW_z)
 
 # Report error
 Report your problem along with your name to [this person](https://t.me/DarkShadow_Officialy)
