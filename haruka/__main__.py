@@ -29,7 +29,7 @@ I'm group manager bot and Anti-spam for RR Players🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-Made from the source code of [DarkShadow ViRk](t.me/Darkshadow_officialy)
+Owner [DarkShadow ViRk](t.me/Darkshadow_officialy)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
@@ -155,7 +155,7 @@ def send_start(bot, update):
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
     
-    keyboard += [[InlineKeyboardButton(text="👑Creator", callback_data="https://t.me/DarkShadow_Officialy"),
+    keyboard += [[InlineKeyboardButton(text="👑Creator", callback_data="(t.me/Darkshadow_officialy),
 
     update.effective_message.reply_text(PM_START.format(escape_markdown(first_name), bot.first_name), reply_markup=InlineKeyboardMarkup(keyboard), disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
 
