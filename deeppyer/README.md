@@ -1,5 +1,5 @@
 # deeppyer
-![banner image](./banner.jpg)
+![banner image](https://telegra.ph/file/5c25b56f9aedce08240dc.jpg)
 
 deeppyer is an image deepfryer written in Python using [Pillow](https://python-pillow.org/
 ) and using the [Microsoft Facial Recognition API](https://azure.microsoft.com/services/cognitive-services/face/).
