@@ -8,10 +8,10 @@ Can be found on telegram as [GroupManager](https://t.me/DarkShadowManager_Bot).
 
 Alternatively, [find me on telegram](https://t.me/DarkShadow_officialy)! (Keep all support questions in the support chat, where more people can help you.)
 
-You can also join our support group [here!](https://t.me/Darkshdow_z)
+You can also join our support group [here!](https://t.me/DarkShaDoW_z)
 
 # Group
-[Join Discuss Group](https://t.me/Darkshadow_z)
+[Join Discuss Group](https://t.me/DarkShaDoW_z
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/xditya)
+Report your problem along with your name to [this person](https://t.me/DarkShadow_Officialy)
