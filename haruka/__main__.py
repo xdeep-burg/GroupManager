@@ -29,7 +29,9 @@ I'm group manager bot and Anti-spam for RR Players🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-Owner [🇮🇳Lovedeep ViRk🇮🇳](t.me/Lovedeep_ViRk)
+Creator->[🇮🇳Lovedeep ViRk🇮🇳](t.me/Lovedeep_ViRk)
+
+Ask For Help Contact My bot->[Contact Bot](t.me/DSCOMMUNITY_Bot)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
