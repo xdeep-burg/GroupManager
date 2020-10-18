@@ -33,8 +33,6 @@ Creator->[🇮🇳Lovedeep ViRk🇮🇳](t.me/Lovedeep_ViRk)
 
 Ask For Help Contact My bot->[Contact Bot](t.me/DSCOMMUNITY_Bot)
 
-This Bot Creating For Only DarkShadow Group But Dont Worry U also use it.
-
 Click /help or Help button below to find out more about how to use me to my full potential.
 
  Add me to a group by clicking [here](http://t.me/DarkShadowManager_Bot?startgroup=true).
